@@ -10,7 +10,7 @@ from pybedtools import BedTool
 # Print USAGE
 if len(sys.argv) < 3:
    print """\
-   There are some missing arguments.
+   There are some missing arguments modified.
    Usage: compare_mafs MAF_FILE_GDC MAF_FILE_TCGA
         MAF_FILE_1: Path for GDC maf file   
         MAF_FILE_2: Path for TCGA maf file 
